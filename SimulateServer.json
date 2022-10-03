@@ -1,0 +1,10 @@
+{"orders" : [{"orderId" : 1 , "orderPrice" : 2300 , "items" : [
+             {"productId" : 11 , "quantityInKg" : 12 , "price" : 1200}
+] },
+             {"orderId" : 2 , "orderPrice" : 4500 , "items" : [
+             {"productId" : 11 , "quantityInKg" : 12 , "price" : 1200}
+] },
+             {"orderId" : 3 , "orderPrice" : 8700 , "items" : [
+             {"productId" : 11 , "quantityInKg" : 12 , "price" : 1200}
+] }]}
+
